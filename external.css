@@ -1,0 +1,260 @@
+h1.H {
+    font-family: "Ibarra Real Nova", serif;
+  }
+  
+  h2 {
+    font-family: "Rubik Moonrocks", serif;
+    font-size: xx-large;
+  }
+  
+  
+  
+  #maindiv {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 30px;
+    align-items: center;
+    
+  }
+  
+  .TajMahal {
+    position: relative;
+    padding: 20px;
+    width: 550px;
+    background-image: linear-gradient(
+      160deg,
+      rgba(157, 218, 15, 0.753),
+      rgba(64, 147, 45, 0.557),
+      rgba(126, 205, 130, 0.936)
+    );
+    padding: 10px;
+    margin: 50px;
+    margin-top: 30px;
+    border-radius: 65px;
+    box-shadow: 0px 0px 10px 10px rgba(231, 6, 130, 0.845);
+  }
+
+  .Humayuntomb {
+    position: relative;
+    padding: 20px;
+    width: 550px;
+    background-image: linear-gradient(
+      160deg,
+      rgba(245, 229, 84, 0.578),
+      rgba(221, 231, 85, 0.584),
+      rgba(231, 225, 159, 0.911)
+    );
+    padding: 10px;
+    margin: 50px;
+    border-radius: 55px;
+    box-shadow: 0px 0px 10px 10px rgba(231, 6, 130, 0.845);
+  }
+  
+  #lotustemple {
+    position: relative;
+    padding: 20px;
+    width: 550px;
+    background-image: linear-gradient(
+      160deg,
+      rgba(105, 118, 232, 0.626),
+      rgba(139, 144, 199, 0.765),
+      rgba(202, 198, 231, 0.941)
+    );
+    padding: 10px;
+    margin: 50px;
+    border-radius: 45px;
+    box-shadow: 0px 0px 10px 10px rgba(231, 6, 130, 0.845);
+  }
+
+  #VictoriaMemorial {
+    position: relative;
+    padding: 20px;
+    width: 550px;
+    background-image: linear-gradient(
+      160deg,
+      rgba(241, 236, 224, 0.753),
+      rgba(127, 217, 233, 0.712),
+      rgba(91, 164, 152, 0.934)
+    );
+    padding: 10px;
+    margin: 50px;
+    border-radius: 35px;
+    box-shadow: 0px 0px 10px 10px rgba(231, 6, 130, 0.845);
+  }
+
+  #mysorepalace {
+    position: relative;
+    padding: 20px;
+    width: 550px;
+    padding: 10px;
+    background-image: linear-gradient(
+      160deg,
+      rgba(241, 236, 224, 0.753),
+      rgba(230, 192, 109, 0.692),
+      rgba(163, 132, 86, 0.936)
+    );
+    padding: 10px;
+    margin: 50px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 10px 10px rgba(231, 6, 130, 0.845);
+  }
+
+  #redfort {
+    position: relative;
+    padding: 20px;
+    width: 550px;
+    background-image: linear-gradient(
+      160deg,
+      rgba(225, 111, 40, 0.765),
+      rgba(181, 138, 44, 0.703),
+      rgba(205, 168, 112, 0.941)
+    );
+    padding: 10px;
+    margin: 50px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgba(231, 6, 130, 0.845);
+  }
+  
+  #Header {
+    position: relative;
+    top: 0px;
+    text-shadow: 100px;
+    text-align: center;
+    border-radius: 15px;
+    background-image: linear-gradient(
+      120deg,
+      rgba(199, 232, 99, 0.674),
+      rgba(78, 53, 126, 0.804),
+      rgba(92, 210, 210, 0.742)
+    );
+    width: 100%;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    font-size: larger;
+    padding: 10px;
+  }
+  
+  body {
+    background-image: url("/photo/background\ 2.jpg");
+    background-repeat: round;
+    background-attachment: fixed;
+    
+  }
+  
+  #Footer {
+    width: 100%;
+    left: 0%;
+    position: relative;
+    bottom: 0px;
+    border-radius: 10px;
+    background-image: linear-gradient(
+     120deg,   
+    rgba(255, 98, 0, 0.758),
+    rgba(173, 211, 38, 0.763),
+    rgba(58, 117, 45, 0.769));
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:15px;
+  }
+  
+  .taj-p {
+    text-align: left;
+    font-family: "Edu QLD Beginner";
+    margin-left: 10px;
+    padding: 10px;
+  }
+  .humaynu-p {
+    text-align: left;
+    font-family: "Edu QLD Beginner";
+    margin-left: 10px;
+    padding: 10px;
+  }
+  .lotus-p {
+    text-align: left;
+    font-family: "Edu QLD Beginner";
+    margin-left: 10px;
+    padding: 10px;
+  }
+  .mysore-p {
+    text-align: left;
+    font-family: "Edu QLD Beginner";
+    margin-left: 10px;
+    padding: 10px;
+  }
+  .victoria-p {
+    text-align: left;
+    font-family: "Edu QLD Beginner";
+    margin-left: 10px;
+    padding: 10px;
+  }
+  .redfort-p {
+    text-align: left;
+    font-family: "Edu QLD Beginner";
+    margin-left: 10px;
+    padding: 10px;
+  }
+  .taj-img {
+    border-radius: 10px;
+  }
+  .Humayun-img {
+    border-radius: 10px;
+  }
+  .lotus-img {
+    border-radius: 10px;
+  }
+  .victoria-img {
+    border-radius: 10px;
+  }
+  .mysore-img {
+    border-radius: 10px;
+  }
+  .redfort-img {
+    border-radius: 10px;
+  }
+  
+  @media only screen and (max-width: 600px) {
+    .TajMahal {
+      width: 300px;
+    }
+    .taj-img {
+      width: 150px;
+    }
+  
+    .Humayuntomb {
+      width: 300px;
+    }
+    .Humayun-img {
+      width: 150px;
+    }
+  
+    #lotustemple {
+      width: 300px;
+    }
+    .lotus-img {
+      width: 150px;
+    }
+  
+    #VictoriaMemorial {
+      width: 300px;
+    }
+    .victoria-img {
+      width: 150px;
+    }
+  
+    #mysorepalace {
+      width: 300px;
+    }
+    .mysore-img {
+      width: 150px;
+    }
+  
+    #redfort {
+      width: 300px;
+    }
+    .redfort-img {
+      width: 150px;
+    }
+  }
